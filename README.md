@@ -1,4 +1,3 @@
-# JGO2020
 # Investigation of SAEAs’ metamodel samples for computationally expensive optimization problems
 
 > **Contributors:** Mônica A. C. Valadão<sup>1,2,5</sup>, André L. Maravilha<sup>3,5</sup>, Lucas S. Batista<sup>4,5</sup>  
